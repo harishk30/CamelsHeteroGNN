@@ -4,7 +4,7 @@ Predicting the matter density parameter ($\Omega_m$) from CAMELS simulation data
 
 ## Overview
 
-This project implements and compares heterogeneous and homogeneous GNN models for cosmological parameter estimation. The heterogeneous approach leverages different galaxy types and their interactions, potentially improving prediction accuracy when galaxies have limited data available.
+This work implements and compares heterogeneous and homogeneous GNN models for cosmological parameter estimation. The heterogeneous approach leverages different galaxy types and their interactions, potentially improving prediction accuracy when galaxies have limited data available.
 
 ## Key Features
 
